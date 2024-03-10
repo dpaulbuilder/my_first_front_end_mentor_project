@@ -1,0 +1,91 @@
+*{
+    font-size: Young Serif;
+}
+body{
+    background-color: rgba(221, 197, 166, 0.527);
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.img{
+    width: 95%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 25px;
+    
+}
+.maincontent{
+    background-color: white;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    padding-left: 25px; 
+}
+.h1{
+    font-size:55px ;
+}
+.sec1{
+    font-size: 16.5px;
+    padding-bottom: 2%;
+}
+.sec2{
+    background-color: rgba(255, 182, 193, 0.158);
+    margin-right: 5.3%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+.h3{
+    padding-left: 2.4%;
+    color:rgba(172, 32, 57, 0.877);
+}
+.ul1{
+    list-style: square;
+}
+.h23{
+    color: rgba(180, 50, 50, 0.822);
+}
+.h24{
+    color: rgba(180, 50, 50, 0.822);
+}
+.ul2{
+    list-style: square;
+    lighting-color: rgb(122, 0, 0);
+}
+.ol1{
+    lighting-color: brown;
+    line-height: 120%;
+    font-size: 90%;
+    text-align: left;
+}
+.h25{
+    color: rgba(180, 50, 50, 0.822);
+}
+.sec5{
+    padding-bottom: 20%;
+}
+table{
+    width: 80%;
+    margin: 20px;
+}
+
+.block{
+    color: lightpink;
+    padding-bottom: 5%;
+    padding-left: 0.5%;
+    size: 20%;
+}
+
+table, tr,td{
+    border-bottom: 1px solid rgba(194, 191, 191, 0.753);
+    border-collapse: collapse;
+    text-align: center;
+    text-align: left;
+    padding: 6px;
+}
+
+table tr td:nth-of-type(2){
+    color: rgba(180, 50, 50, 0.822);
+}
+hr{
+    margin: auto;
+    width: 90%;
+    color:  rgba(194, 191, 191, 0.384);
+}
